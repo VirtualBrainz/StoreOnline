@@ -60,12 +60,3 @@ Route::put('/reply/{comment}','CommentController@update')->name('comment.update'
 
 
 
-
-
-
-
-
-Route::post('/replrey/{comment}','CommentController@update')->name('comment.update');
-
-
-
